@@ -1,10 +1,15 @@
+%%writefile requirements.txt
 langchain==0.0.329
 nltk==3.8.1
 openai==0.28.0
 roman==4.1
+# Compatible with Python 3.12
 scipy==1.11.4
-transformers==4.35.2
-vllm==0.4.2
-pyarrow==14.0.2
 pandas==2.1.4
+pyarrow==14.0.2
+# Transformers stable version
+transformers==4.35.2
+# Updated versions for Python 3.12
 ray==2.31.0
+vllm==0.4.2
+
