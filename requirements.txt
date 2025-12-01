@@ -8,7 +8,7 @@ scipy==1.11.4
 pandas==2.1.4
 pyarrow==14.0.2
 # Transformers stable version
-transformers==4.35.2
+transformers==4.40.0
 # Updated versions for Python 3.12
 ray==2.31.0
 vllm==0.4.2
