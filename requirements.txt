@@ -1,4 +1,4 @@
-%%writefile requirements.txt
+
 langchain==0.0.329
 nltk==3.8.1
 openai==0.28.0
